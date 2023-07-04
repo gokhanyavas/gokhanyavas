@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Gökhan</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="left">Hi 👋, I'm Gökhan</h1>
+<h3 align="left">Software Developer</h3>
 
+- 🔭 I’m currently working on Android
 - 🌱 I’m currently learning **kotlin**
+- 👯 I’m looking to collaborate on new business ideas.
 
 - 📫 How to reach me **gokhanyavas@yahoo.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gokhanyavas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokhanyavas" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/gokhanyavas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gokhanyavas" height="30" width="40" /></a>
