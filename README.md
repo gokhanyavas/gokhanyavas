@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Gökhan</h1>
 <h3 align="left">Software Developer</h3>
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning **kotlin**
+- 🔭 I'm currently working on ERP System, SQL and apps development
+- 🌱 I’m currently learning **t-sql** **ms sql dba** 
 - 👯 I’m looking to collaborate on new business ideas.
 
 - 📫 How to reach me **gokhanyavas@yahoo.com**
