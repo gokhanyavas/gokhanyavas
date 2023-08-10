@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **kotlin**
 - 👯 I’m looking to collaborate on new business ideas.
 
-- 📫 How to reach me **gokhanyavas@yahoo.com**
+- 📫 How to reach me **gokhanyavas (at) yahoo.com**
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
