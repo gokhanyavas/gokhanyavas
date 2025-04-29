@@ -2,7 +2,7 @@
 <h3 align="left">Software Developer</h3>
 
 - 🔭 I'm currently working on ERP System, SQL and apps development
-- 🌱 I’m currently learning **kotlin**
+- 🌱 I’m currently learning **Power BI** **ETL**
 - 👯 I’m looking to collaborate on new business ideas.
 
 - 📫 How to reach me **gokhanyavas (at) yahoo.com**
